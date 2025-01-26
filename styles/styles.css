@@ -4,3 +4,13 @@
 * {
   background-color: #48a6a7;
 }
+
+/* -----------Style to recipe pages ----------- */
+.recipe {
+  color: #f2efe7;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.top_center {
+  text-align: center;
+}
